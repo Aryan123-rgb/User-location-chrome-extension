@@ -1,5 +1,18 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+## Live Video
+
+https://github.com/Aryan123-rgb/User-location-chrome-extension/assets/118872531/30760d71-ab20-4434-9896-f4dcfb52d47d
+
+## Some Screenshot
+
+![Screenshot from 2023-08-18 23-08-14](https://github.com/Aryan123-rgb/User-location-chrome-extension/assets/118872531/010469ab-a08e-4553-98d6-2b4cb7f5e0cc)
+
+![Screenshot from 2023-08-18 23-08-38](https://github.com/Aryan123-rgb/User-location-chrome-extension/assets/118872531/8d792118-fd07-41f1-a7f4-f374c550deca)
+
+![Screenshot from 2023-08-18 23-08-51](https://github.com/Aryan123-rgb/User-location-chrome-extension/assets/118872531/bd0ea3ed-91ce-4f36-b6d7-19fee00f0355)
+
+
 ## Getting Started
 
 First, run the development server:
